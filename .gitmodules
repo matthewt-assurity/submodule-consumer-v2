@@ -1,0 +1,4 @@
+[submodule "modules/kaboom"]
+	path = modules/kaboom
+	url = https://github.com/matthewt-assurity/kaboom.git
+	branch = main
